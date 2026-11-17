@@ -9,7 +9,7 @@ FetchContent_MakeAvailable(JUCE)
 
 juce_add_plugin(FreeStutter
     COMPANY_NAME "FreeStutter"
-    PLUGIN_MANUFACTURER_CODE Fsttr
+    PLUGIN_MANUFACTURER_CODE Fstr
     PLUGIN_CODE Fstt
     FORMATS VST3
     PRODUCT_NAME "FreeStutter"
